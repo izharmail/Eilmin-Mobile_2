@@ -58,14 +58,14 @@
     "wsextservice": "local_mobile",
     "demo_sites": {
         "student": {
-            "url": "https:\/\/school.demo.moodle.net",
+            "url": "https:\/\/demo.eilmin.com",
             "username": "student",
-            "password": "moodle"
+            "password": "eilmin"
         },
         "teacher": {
-            "url": "https:\/\/school.demo.moodle.net",
+            "url": "https:\/\/demo.eilmin.com",
             "username": "teacher",
-            "password": "moodle"
+            "password": "eilmin"
         }
     },
     "customurlscheme": "moodlemobile",
@@ -74,7 +74,8 @@
     "multisitesdisplay": "",
     "skipssoconfirmation": false,
     "forcedefaultlanguage": false,
-    "privacypolicy": "https:\/\/moodle.org\/mod\/page\/view.php?id=8148",
+    "privacypolicy": "https:\/\/eilmin.com/privacy-notice/",
+     
     "notificoncolor": "#00E6FF",
     "statusbarbg": false,
     "statusbarlighttext": false,
